@@ -165,12 +165,14 @@ ticketsOffers:
   priceCurrency: "R$"
   ticketsNumber: "100"
   # ribbon: "-20%"
-  featured: true
+  # featured: true
   buyButtonLink: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508"
   buyButtonText: "Comprar"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "30/08/2017T00:00"
   validThrough: "16/09/2017T23:59"
+  soldOut: true
+  soldOutText: "Esgotado"
   # disabled: true
  -
   name: "Late Bird"
@@ -183,7 +185,8 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "16/09/2017T00:00"
   validThrough: "24/09/2017T23:59"
-  disabled: true
+  # disabled: true
+  featured: true
   # soldOut: true
   # soldOutText: "Sold Out"
 
