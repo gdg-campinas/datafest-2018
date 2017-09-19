@@ -22,51 +22,51 @@
     }
     - { 
       startTime: "10:20",
-      endTime: "11:10",
+      endTime: "11:05",
       sessionIds: [401, 402]
     }
     - { 
-      startTime: "11:10",
-      endTime: "12:00",
-      sessionIds: [501, 502]
-    }
-    - { 
-      startTime: "12:00",
-      endTime: "12:55",
+      startTime: "11:05",
+      endTime: "12:05",
       sessionIds: [600]
     }
     - { 
-      startTime: "12:55",
-      endTime: "13:45",
+      startTime: "12:05",
+      endTime: "12:50",
+      sessionIds: [501, 502]
+    }
+    - { 
+      startTime: "12:50",
+      endTime: "13:35",
       sessionIds: [701, 702]
     }
     - { 
-      startTime: "13:45",
-      endTime: "14:30",
+      startTime: "13:35",
+      endTime: "14:20",
       sessionIds: [801, 802]
     }
     - { 
-      startTime: "14:30",
-      endTime: "14:45",
+      startTime: "14:20",
+      endTime: "14:40",
       sessionIds: [900]
     }
     - { 
-      startTime: "14:45",
-      endTime: "15:35",
+      startTime: "14:40",
+      endTime: "15:25",
       sessionIds: [1001, 1002]
     }
     - { 
-      startTime: "15:35",
-      endTime: "16:20",
+      startTime: "15:25",
+      endTime: "16:10",
       sessionIds: [1101, 1102]
     }
     - { 
-      startTime: "16:20",
-      endTime: "17:05",
+      startTime: "16:10",
+      endTime: "16:55",
       sessionIds: [1200]
     }
     - {
-      startTime: "17:05",
+      startTime: "16:55",
       endTime: "17:15",
       sessionIds: [1300]
     }
