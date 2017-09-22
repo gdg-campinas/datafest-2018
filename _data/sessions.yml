@@ -98,14 +98,14 @@ BigQuery"
 
 # Felipe - DevOps
 -
-  id: 801
+  id: 1101
   title: "Agile DBA - Como ser um DBA em plena revolução ágil?"
   description: "O mundo do desenvolvimento de software evoluiu, mas as práticas de administração e desenvolvimento em bancos de dados parecem ter parado na idade das trevas. Como fazer para que o DBA se integre ao Desenvolvimento Ágil de software e ao mundo DevOps, tornando seus processos e ferramentas mais iterativos e evolutivos?"
   subtype: presentation
   speakers: [16]
 # Eiti - NoSQL
 -
-  id: 802
+  id: 801
   title: "Apache Cassandra no Desenvolvimento de Sistemas de Alto Desempenho"
   description: "Quando seus negócios crescem, seus sistemas chave não suportam mais o volume de informação inserido, não respondem mais requisições dos seus clientes, a quem chamar? Como resolver? Conheça o Apache Cassandra e como foi fundamental para evoluir nossos sistemas e alavancar o crescimento dos nossos negócios, aplicado no desenvolvimento de sistemas distribuídos de alto desempenho para aplicativos móveis"
   subtype: presentation
@@ -137,15 +137,15 @@ BigQuery"
 
 # Sulamita 
 -
-  id: 1101
+  id: 1102
   title: "Monitorando os recursos e processos do Servidor, através do Power BI"
   description: "Monitorar os recursos e processos físicos do servidor com o Power BI. 
 Através da configuração de alguns contadores do perfmon e da rotina de Relog, será criado um dashboard no Power BI para acompanhar por exemplo: desempenho da CPU, quantidade de memória e vários outros recursos específicos do SQL Server."
   subtype: presentation
   speakers: [22]
-# Wagner - MySQL
+# Gabriel
 -
-  id: 1102
+  id: 802
   title: "Feature Engineering: Extraindo o potencial máximo dos dados para modelos preditivos"
   description: "Feature Engineering é o processo de extrair e selecionar, a partir de dados brutos, características que possam ser utilizadas de forma efetiva em modelos preditivos. Como a qualidade das features influencia muito a qualidade dos resultados, conhecer as principais técnicas e armadilhas lhe ajudarão a ter sucesso na utilização de machine learning em seus projetos.
 
