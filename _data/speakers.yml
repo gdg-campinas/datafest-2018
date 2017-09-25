@@ -12,17 +12,17 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/"}
 
 # Kenzo Porto
-- 
-  id: 11
-  name: "Kenzo"
-  surname: "Porto"
-  company: "Google Cloud"
-  title: "Cloud Program Manager"
-  bio: "Kenzo Porto é bacharel em Ciência da Computação pela UFRGS e tem um MBA em Gestão Empresarial pela FGV. Possui mais de 15 anos de experiência em gerenciamento de projetos, desenvolvimento de software e arquitetura de sistemas. Há 5 anos trabalha na Google e atuou nos cargos de Sales Engineer de Google Maps, Partner Operations Manager de Maps e Search Enterprise, Deployment Engineer de G Suite e atualmente é Cloud Program Manager."
-  thumbnailUrl: KenzoPorto.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
+# - 
+#   id: 11
+#   name: "Kenzo"
+#   surname: "Porto"
+#   company: "Google Cloud"
+#   title: "Cloud Program Manager"
+#   bio: "Kenzo Porto é bacharel em Ciência da Computação pela UFRGS e tem um MBA em Gestão Empresarial pela FGV. Possui mais de 15 anos de experiência em gerenciamento de projetos, desenvolvimento de software e arquitetura de sistemas. Há 5 anos trabalha na Google e atuou nos cargos de Sales Engineer de Google Maps, Partner Operations Manager de Maps e Search Enterprise, Deployment Engineer de G Suite e atualmente é Cloud Program Manager."
+#   thumbnailUrl: KenzoPorto.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-kenzo-kurahayashi-porto-9424a6a/"}
 
 # Gabriel Moreira
 - 
