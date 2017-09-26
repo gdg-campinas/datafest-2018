@@ -186,9 +186,9 @@ ticketsOffers:
   validFrom: "16/09/2017T00:00"
   validThrough: "24/09/2017T23:59"
   # disabled: true
-  featured: true
-  # soldOut: true
-  # soldOutText: "Sold Out"
+  # featured: true
+  soldOut: true
+  soldOutText: "Esgotado"
 
 # Footer
 socialLinks:
