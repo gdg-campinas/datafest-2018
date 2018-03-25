@@ -53,25 +53,25 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Grade"}
- - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Time"}
+ - {permalink: "/schedule/", text: "Grade 2017"}
+ - {permalink: "/speakers/", text: "Palestrantes 2017"}
+ - {permalink: "/team/", text: "Time 2017"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508", text: "Ingressos"}
+ - {link: "https://gdg-campinas.github.io/datafest-2017/", text: "DataFest 2017"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508", text: "Ingressos"}
+ - {link: "https://gdg-campinas.github.io/datafest-2017/", text: "DataFest 2017"}
 
 # Hero Block
 heroImage: "datacenter.jpg"
-heroTitle: "GDG <typeout> DataFest 2017"
-eventDate: "26 de Setembro de 2017"
+heroTitle: "GDG <typeout> DataFest 2018"
+eventDate: "Agosto de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Ingressos"}
+#  - {permalink: "/#tickets", text: "Ingressos"}
 
 # About Block
 # aboutTitle: "About GDG DevFest"
@@ -81,7 +81,8 @@ heroButtons:
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "statistics-2.png"
+statisticBlockTitle: "Dados 2017"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
@@ -94,8 +95,15 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Destaque"
+rockstarSpeakersTitle: "Destaques 2017"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
+
+# Media
+media:
+  video: "https://www.youtube.com/embed/EpfEhdD0tjg"
+  photos:
+    row: 4
+    total: 16
 
 # Location Block
 # R. Elis Regina, 131 - Cidade Universitária, Campinas - SP, 13083-859
@@ -201,6 +209,7 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://gdg-campinas.github.io/datafest-2017/", text: "DataFest 2017"}
    - {link: "https://www.meetup.com/gdgcampinas/", text: "Meetup"}
    - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
    - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
