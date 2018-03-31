@@ -26,7 +26,7 @@ aboutEvent:
   content: "O Data Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
 aboutGDG:
   title: "O QUE É O GDG?"
-  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 666 comunidades espalhadas pelo mundo. 
+  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
   <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar conosco."
 
 # Organizer Info
@@ -45,23 +45,26 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-# c4pUrl: "https://bit.ly/dfua-c4p"
-# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
+c4pTitle: "Submeta um conteúdo"
+c4pDescription: "Se tiver interesse em compartilhar seu conhecimento com a comunidade submeta uma PALESTRA, se voluntarie como MENTOR e/ou solicite um estande para a sua COMUNIDADE"
+c4sponsorsUrl: "mailto:contato@gdg-campinas.org?Subject=%5BPatrocinio%5D%20DataFest%202018"
+c4mentorUrl: "<mentor>"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Grade 2017"}
- - {permalink: "/speakers/", text: "Palestrantes 2017"}
- - {permalink: "/team/", text: "Time 2017"}
+#  - {permalink: "/schedule/", text: "Grade 2017"}
+#  - {permalink: "/speakers/", text: "Palestrantes 2017"}
+ - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://gdg-campinas.github.io/datafest-2017/", text: "DataFest 2017"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 rightNavigationButtons:
- - {link: "https://gdg-campinas.github.io/datafest-2017/", text: "DataFest 2017"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 
 # Hero Block
 heroImage: "datacenter.jpg"
@@ -70,8 +73,9 @@ eventDate: "Agosto de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
-#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 #  - {permalink: "/#tickets", text: "Ingressos"}
+heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
 
 # About Block
 # aboutTitle: "About GDG DevFest"
@@ -96,7 +100,8 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaques 2017"
-rockstarSpeakersButtonText: "Veja todos palestrantes"
+rockstarSpeakersButtonText: "Seja um palestrante em 2018"
+rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 
 # Media
 media:
@@ -105,6 +110,9 @@ media:
   photos:
     row: 4
     total: 16
+  button:
+    text: "DataFest 2017"
+    link: "https://gdg-campinas.github.io/datafest-2017/"
 
 # Location Block
 # R. Elis Regina, 131 - Cidade Universitária, Campinas - SP, 13083-859
@@ -143,7 +151,7 @@ twitterHomeUrl: "https://twitter.com/gdgcampinas"
 # Partners Block
 organizersTitle: "Realização"
 partnersTitle: "Patrocínio"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -201,10 +209,10 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/+GDG-CampinasOrg", icon: "google-plus"}
- - {link: "https://twitter.com/gdgcampinas", icon: "twitter"}
  - {link: "https://www.facebook.com/gdgcampinas/", icon: "facebook"}
  - {link: "https://www.linkedin.com/company-beta/15240699/", icon: "linkedin"}
+ - {link: "https://twitter.com/gdgcampinas", icon: "twitter"}
+ - {link: "https://plus.google.com/+GDG-CampinasOrg", icon: "google-plus"}
 #  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -233,7 +241,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Quem somos"
-aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 666 comunidades espalhadas pelo mundo. 
+aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
   <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar conosco."
 teamOrganizerTitle: "Organizadores"
 

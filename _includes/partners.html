@@ -18,7 +18,7 @@
           {% if site.data.partners %}
           <h3>{{ site.partnersTitle }}</h3>
           {% for partner in site.data.partners %}
-          <!-- <h5>{{ partner.group }}</h5> -->
+          <h5>{{ partner.group }}</h5>
           <ul class="list-inline">
               {% for element in partner.elements %}
               <li>
@@ -33,6 +33,11 @@
           </ul>
           {% endfor %}
           {% endif %}
+          <a href="{{ site.c4sponsorsUrl }}" 
+            class="btn btn-primary waves-effect waves-button waves-light waves-float"
+            target="{% if site.c4sponsorsUrl contains ':' %}_top{% else %}_blank{% endif %}">
+            {{ site.partnersC4sponsorsButton }}
+          </a>
           <!-- <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a> -->
       </div>
   </div> 
