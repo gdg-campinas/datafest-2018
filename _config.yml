@@ -69,7 +69,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "datacenter.jpg"
 heroTitle: "GDG <typeout> DataFest 2018"
-eventDate: "Setembro de 2018"
+eventDate: "31 de Outubro de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
@@ -86,7 +86,7 @@ heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os 
 
 # Statistic Block
 statisticBlockImage: "statistics-2.png"
-statisticBlockTitle: "Dados 2017"
+statisticBlockTitle: "Dados"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
@@ -115,31 +115,30 @@ media:
     link: "https://gdg-campinas.github.io/datafest-2017/"
 
 # Location Block
-# R. Elis Regina, 131 - Cidade Universitária, Campinas - SP, 13083-859
-# Centro de Convenções da Unicamp
+# Polis de tecnologia
 locationBlockTitle: "Localização"
-eventLocationName: "Centro de Convenções da Unicamp"
-eventLocationLink: "https://www.unicamp.br/unicamp/noticias/centro-de-convencoes"
-eventStreetAddress: "R. Elis Regina, 131"
+eventLocationName: "Pólis de Tecnologia"
+eventLocationLink: "http://polisdetecnologia.com.br/index.html"
+eventStreetAddress: "R. Dr. Ricardo Benetton Martins, 1000"
 eventAddressLocality: "Campinas"
-eventAddressLocalityRegion: "Cidade Universitária"
-eventPostalCode: "13083-859"
+eventAddressLocalityRegion: "Parque II do Polo de Alta Tecnologia"
+eventPostalCode: "13086-510"
 eventAddressCountry: "Brasil"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: "-22.8149538, -47.0728754"
-mapCenterCoordinates: "-22.8149538, -47.0728754"
-mapMobileCenterCoordinates: "-22.8149538, -47.0728754"
+eventPlaceCoordinates: "-22.816986, -47.044942"
+mapCenterCoordinates: "-22.816986, -47.044942"
+mapMobileCenterCoordinates: "-22.816986, -47.044942"
 
 # Venue Block
 venueBlockTitle: "Local"
-venueBigImage: "venue_campinas_0.jpg"
-venueSmallImage1: "venue_campinas_1.jpg"
-venueSmallImage2: "venue_campinas_2.jpg"
-venueSmallImage3: "venue_campinas_3.jpg"
-venueTitle: "Centro de Convenções"
-venueFeatures: ["Unicamp", "Cidade Universitária"]
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Pólis de Tecnologia"
+venueFeatures: ["Auditórios", "Anfiteatros"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
