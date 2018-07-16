@@ -86,7 +86,7 @@ heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os 
 
 # Statistic Block
 statisticBlockImage: "statistics-2.png"
-statisticBlockTitle: "Dados"
+# statisticBlockTitle: "Dados"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
