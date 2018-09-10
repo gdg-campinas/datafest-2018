@@ -57,6 +57,14 @@ Nessa apresentação vou mostrar como utilizamos o Structured  Stream para proce
   speakers: [003]
   complexity: Intermediário
 
+# Fernando Ultremare
+-
+  id: 601
+  title: "Ciência e engenharia de dados no Google Cloud"
+  description: "Um panorama das principais ferramentas e o que há de mais  de novo em Data Science/Engineering no Google Cloud"
+  subtype: presentation
+  speakers: [002]
+  complexity: Básico
 
 # -
 #   id: 002
