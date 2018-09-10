@@ -29,14 +29,7 @@
   place: ""
   service: true
   description: "Momento para networking"
-# Eduardo Hruschka
--
-  id: 1200
-  title: "Keynote de Fechamento"
-  place: ""
-  subtype: keynote
-  description: "Jornada e Aplicação de Analytics em bancos"
-  speakers: [26]
+
 -
   id: 1300
   title: "Encerramento"
@@ -53,6 +46,15 @@ O Apache Spark através de sua solução de processamento de dados via Structure
 Nessa apresentação vou mostrar como utilizamos o Structured  Stream para processar mais de 100 milhões de transações de tentativas de tarifação por dia, apresentarei nossa arquitetura  e alguns aspectos que sobre Streams usando Apache Spark que poderão te ajudar na tarefa de trabalhar e transformar grandes volumes de informação."
   subtype: presentation
   speakers: [001]
+  complexity: Intermediário
+
+# Daniel Cukier
+-
+  id: 501
+  title: "Índice de Audiência Musical: o lado científico do programa  SóTocaTop"
+  description: "Índice de Audiência Musical é a composição de várias tecnologias de computação musical, computação em Nuvem e Data Science para consolidar, num único número, o nível de popularidade de artistas, baseando-se em dados de consumo em rádios, TVs e plataformas de streaming. Nessa palestra, contaremos detalhes desse projeto, utilizado pela Rede Globo para a escolha de artistas do programa SóTocaTop."
+  subtype: presentation
+  speakers: [003]
   complexity: Intermediário
 
 

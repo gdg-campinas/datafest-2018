@@ -12,6 +12,36 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/" }
     - { name: "twitter", link: "https://twitter.com/eitikimura" }
 
+# Fernando Ultremare
+- 
+  id: 002
+  name: "Fernando"
+  surname: "Ultremare"
+  company: "Dextra"
+  title: "Gerente de Desenvolvimento"
+  bio: ""
+  thumbnailUrl: FernandoUltremare.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
+
+# Daniel Cukier
+-
+  id: 003
+  name: "Daniel"
+  surname: "Cukier"
+  company: "Playax"
+  title: "CTO"
+  bio: "Pai da Laura, CTO na Playax. PhD em Ciência da Computação na USP e professor de JavaScript sênior na Laboratoria. Google Developer Expert (GDE) e meditador Vipassana"
+  thumbnailUrl: DanielCukier.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - { name: "twitter", link: "http://www.twitter.com/danicuki" }
+
 
 # - 
 #   id: 99
