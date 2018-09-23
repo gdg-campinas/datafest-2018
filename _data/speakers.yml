@@ -82,6 +82,20 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/" }
 
+# Davi Silva
+-
+  id: 007
+  name: "Davi"
+  surname: "Silva"
+  company: "Dextra"
+  title: "Gerente de Projetos"
+  bio: "Desenvolvedor com experiência em projetos de desenvolvimento de software no Brasil e EUA, onde atuei como desenvolvedor nos laboratórios Bell Labs/Lucent. Antes da Dextra fui head de tecnologia e arquitetura em uma operadora de Telecom, principal executivo de uma fundação de pesquisa em TI e Segurança de Informação, e atuei em uma Fintech. Tenho 4 filhos, dois cachorros e jogo Squash. Compartilho algumas idéias em PapoDeCafe.com e meu Twitter é @DaviSilva."
+  thumbnailUrl: DaviSilva.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/davisilva/" }
+    - { name: "twitter", link: "http://twitter.com/davisilva" }
+
 
 # - 
 #   id: 99

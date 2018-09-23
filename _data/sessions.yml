@@ -93,6 +93,15 @@ Nessa apresentação vou mostrar como utilizamos o Structured  Stream para proce
   speakers: [006]
   complexity: Intermediário
 
+# Davi Silva
+-
+  id: 1001
+  title: "Machine-Learning Bias"
+  description: "Erros de algoritmos \"mal treinados\" levam a conclusões erradas: desde a identificação de gorilas em fotos de humanos até a prisão de inocentes. Neste cenário, qual papel nós estamos desempenhando? Estamos ajudando a reforçar e a replicar algoritmos tendenciosos (biased)?"
+  subtype: presentation
+  speakers: [007]
+  complexity: Básico
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"
