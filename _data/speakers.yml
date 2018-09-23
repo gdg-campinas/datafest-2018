@@ -42,6 +42,33 @@
   social:
     - { name: "twitter", link: "http://www.twitter.com/danicuki" }
 
+# Alexandre Ferreira
+-
+  id: 004
+  name: "Alexandre Mello"
+  surname: "Ferreira"
+  company: "IC/Unicamp"
+  title: "Researcher"
+  bio: "Possuo doutorado em Ciência da Computação pela Politecnico di Milano, Itália (2013), mestrado em Ciência da Computação pela Universidade Federal de São Carlos (2008) e bacharelado em Ciência da Computação pela Escola de Engenharia de Piracicaba (2004). Desde 2015 atuo como pesquisador no RECOD (IC, Unicamp) em diversos projetos ligados direta ou indiretamente aos temas computação forense e aprendizado de máquina. Estes projetos são financiados pela iniciativa privada e agências de fomento. Além da pesquisa, também sou docente na Fatec Campinas e na Escola de Engenharia de Piracicaba nos cursos de computação."
+  thumbnailUrl: AlexandreFerreira.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://br.linkedin.com/in/alexandre-mello-ferreira-303a5682" }
+
+# Diego Nogare
+-
+  id: 005
+  name: "Diego"
+  surname: "Nogare"
+  company: "Lambda3"
+  title: "Chief Data Officer"
+  bio: "Diego Nogare é graduado em Ciência da Computação, Pós-Graduado em Engenharia da Computação com ênfase em Desenvolvimento Web com .Net. Mestrando em Engenharia Elétrica e Computação. Autor de quatro livros em Português: Do Banco de Dados Relacional à Tomada de Decisão, SQL Server Além do Conceito: Blog Post Collection, SQL Server Além do Conceito: Volume 2 e Análise Preditiva com Azure Machine Learning e R. É Microsoft Most Valuable Professional [MVP] em Data Platform desde 2008, e em 2017 mudou de categoria para Artificial Intelligence. Também foi Regional Mentor do PASS nos anos de 2014 e 2015, Regional Advisor para área da América Latina no PASS entre 2015 e 2016, e PASS Board Director at Large nos anos de 2018 e 2019. Investe um tempo palestrando em eventos da Microsoft e do PASS, e quando consegue, escreve para o blog: www.diegonogare.net"
+  thumbnailUrl: DiegoNogare.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/diegonogare/" }
+    - { name: "twitter", link: "http://twitter.com/DiegoNogare" }
+
 
 # - 
 #   id: 99

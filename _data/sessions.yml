@@ -66,6 +66,24 @@ Nessa apresentação vou mostrar como utilizamos o Structured  Stream para proce
   speakers: [002]
   complexity: Básico
 
+# Alexandre Ferreira
+-
+  id: 701
+  title: "Provenance analysis against fake news"
+  description: "Com o objetivo de recontar uma história a partir de textos, imagens e vídeos, o projeto temático Fapesp DéjàVu reúne diversas técnicas de aprendizado de máquina e visão computacional para organizar e recriar eventos, contando toda a história em diversas perspectivas. Esta palestra foca em provenance analysis, um braço importante do projeto, e como ela pode ser utilizada no combate a fake news."
+  subtype: presentation
+  speakers: [004]
+  complexity: Básico
+
+# Diego Nogare
+-
+  id: 801
+  title: "Montando um ambiente de Big Data com Spark itegrado com R no Azure"
+  description: "Nesta sessão vou apresentar a criação do Apache Spark a partir do zero, instanciando uma máquina no Azure e permitindo a interação com linguagem R, incluindo os mecanismos de Machine Learning integrado com Big Data."
+  subtype: presentation
+  speakers: [005]
+  complexity: Intermediário
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"
