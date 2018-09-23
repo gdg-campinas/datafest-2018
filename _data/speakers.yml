@@ -69,6 +69,19 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/diegonogare/" }
     - { name: "twitter", link: "http://twitter.com/DiegoNogare" }
 
+# Hugo Rozestraten
+-
+  id: 006
+  name: "Hugo"
+  surname: "Rozestraten"
+  company: "AWS"
+  title: "Specialist Solutions Architect"
+  bio: "Especialista em Big Data da AWS, há quatro anos trabalha com Cloud Computing. Trabalhou anterioremente no Google, IBM e Oracle, tendo trabalhado com banco de dados desde 2000."
+  thumbnailUrl: HugoRozestraten.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/" }
+
 
 # - 
 #   id: 99

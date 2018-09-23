@@ -84,6 +84,15 @@ Nessa apresentação vou mostrar como utilizamos o Structured  Stream para proce
   speakers: [005]
   complexity: Intermediário
 
+# Hugo Rozestraten
+-
+  id: 901
+  title: "Integrando Machine Learning na ingestão à persistência."
+  description: "Como ferramentas de ingestão e streaming em paralelo podem antecipar análises no Pipeline de Big Data e diminuir a movimentação dos dados após a persistência, garantindo agilidade na aplicação de Modelos de Big Data."
+  subtype: presentation
+  speakers: [006]
+  complexity: Intermediário
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"
