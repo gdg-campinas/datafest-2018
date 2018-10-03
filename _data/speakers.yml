@@ -96,6 +96,74 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/davisilva/" }
     - { name: "twitter", link: "http://twitter.com/davisilva" }
 
+# Ahirton Lopes
+-
+  id: 008
+  name: "Ahirton \"Einstein\""
+  surname: "Lopes"
+  company: "Duratex"
+  title: "Data Scientist"
+  bio: ""
+  thumbnailUrl: AhirtonLopes.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ahirton/" }
+
+# Gabriel Moreira
+-
+  id: 009
+  name: "Gabriel"
+  surname: "Moreira"
+  company: "CI&T"
+  title: "Lead Data Scientist"
+  bio: ""
+  thumbnailUrl: GabrielMoreira.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/gabrielspmoreira/" }
+    - { name: "twitter", linke: "https://twitter.com/gspmoreira" }
+
+# Flavio Pimenta
+-
+  id: 010
+  name: "Flávio"
+  surname: "Pimenta"
+  company: "Assertiva Soluções"
+  title: "Arquiteto Cloud e Evangelista Devops"
+  bio: ""
+  thumbnailUrl: FlavioPimenta.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/flaap/" }
+    - { name: "twitter", link: "https://twitter.com/pimenteaflavio" }
+    - { name: "github", link: "https://github.com/flap" }
+
+# Cesar Nogueira
+-
+  id: 011
+  name: "Cesar"
+  surname: "Nogueira"
+  company: "CI&T"
+  title: "Engenheiro de Software"
+  bio: ""
+  thumbnailUrl: CesarNogueira.jpg
+  rockstar: false
+  social:
+    - { name: "facebook", link: "http://facebook.com/cesarnog" }
+
+# Cristiano Santos
+-
+  id: 012
+  name: "Cristiano Joaquim"
+  surname: "dos Santos"
+  company: "Jardim Vida Nova"
+  title: "Coordenador de BI/Big Data e Banco de Dados"
+  bio: ""
+  thumbnailUrl: CristianoSantos.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-joaquim-50956623/" }
+
 
 # - 
 #   id: 99
