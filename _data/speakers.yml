@@ -177,6 +177,18 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/feandalo/" }
 
+# Felipe Santos
+-
+  id: 014
+  name: "Felipe"
+  surname: "Santos"
+  company: "Daitan Group"
+  title: "Data Scientist"
+  bio: ""
+  thumbnailUrl: FelipeSantos.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/felipe-s-77854123/" }
 
 # - 
 #   id: 99

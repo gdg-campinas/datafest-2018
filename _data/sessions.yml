@@ -102,6 +102,15 @@ Nessa palestra vou mostrar diferentes implementações de sistemas de recomenda�
   speakers: [012]
   complexity: Intermediário
 
+# Felipe Santos
+-
+  id: 801
+  title: "Deploy de Modelos de Machine Learning em Arquiteturas Serverless"
+  description: "Como criar, validar e colocar modelos de Machine Learning em produção utilizando arquiteturas serverless na nuvem."
+  subtype: presentation
+  speakers: [014]
+  complexity: Básico
+
 # Flavio Pimenta
 -
   id: 802

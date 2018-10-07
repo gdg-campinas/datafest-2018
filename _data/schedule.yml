@@ -12,7 +12,7 @@
     - { startTime: "11:05", endTime: "11:55", sessionIds: [500] }
     - { startTime: "11:55", endTime: "12:55", sessionIds: [601, 602] }
     - { startTime: "12:55", endTime: "13:40", sessionIds: [701, 702] }
-    - { startTime: "13:40", endTime: "14:30", sessionIds: [0, 802] }
+    - { startTime: "13:40", endTime: "14:30", sessionIds: [801, 802] }
     - { startTime: "14:30", endTime: "14:45", sessionIds: [900] }
     - { startTime: "14:45", endTime: "15:30", sessionIds: [1001, 1002] }
     - { startTime: "15:30", endTime: "16:20", sessionIds: [1101, 1102] }
