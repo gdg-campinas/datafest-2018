@@ -159,14 +159,14 @@ Baseado em um dataset e códigos de exemplo que disponibilizaremos, você será 
   speakers: [006]
   complexity: Intermediário
 
-# Keynote: closing: 
+# Keynote: closing: Gago
 -
   id: 1201
   title: "Keynote de Fechamento"
   place: ""
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [015]
 
 # Daniel Cukier
 -
