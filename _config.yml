@@ -189,13 +189,13 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "30/08/2018T00:00"
   validThrough: "01/10/2018T23:59"
-  # soldOut: true
-  # soldOutText: "Esgotado"
+  soldOut: true
+  soldOutText: "Esgotado"
   # disabled: true
-  featured: true
+  # featured: true
  -
   name: "Late Bird"
-  price: "310,00"
+  price: "280,00"
   priceCurrency: "R$"
   # ticketsNumber: "20"
   buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029"
@@ -203,10 +203,11 @@ ticketsOffers:
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "01/10/2018T00:00"
-  validThrough: "29/10/2018T23:59"
-  disabled: true
+  validThrough: "30/10/2018T23:59"
+  # disabled: true
   # soldOut: true
   # soldOutText: "Esgotado"
+  featured: true
  -
   name: "Apenas Camiseta"
   price: "40,00"
