@@ -164,6 +164,19 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-joaquim-50956623/" }
 
+# Fernanda Andalo
+-
+  id: 013
+  name: "Fernanda"
+  surname: "Andalo"
+  company: "Unicamp"
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: FernandaAndalo.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/feandalo/" }
+
 
 # - 
 #   id: 99

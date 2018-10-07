@@ -75,7 +75,7 @@ typeoutFallback: "Campinas"
 heroButtons:
 #  - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
  - {permalink: "/#tickets", text: "Ingressos"}
-heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
+# heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
 
 # About Block
 # aboutTitle: "About GDG DevFest"

@@ -47,6 +47,15 @@
   description: "Erros de algoritmos \"mal treinados\" levam a conclusões erradas: desde a identificação de gorilas em fotos de humanos até a prisão de inocentes. Neste cenário, qual papel nós estamos desempenhando? Estamos ajudando a reforçar e a replicar algoritmos tendenciosos (biased)?"
   speakers: [007]
 
+# speaker
+-
+  id: 401
+  title: "Da Academia ao Mercado: Visão computacional com Deep Learning"
+  description: "Falar sobre como ensinamos os computadores a ver e interpretar o mundo, e como a disponibilidade de dados vem modificando isso. Posso mostrar os exemplos em que trabalho atualmente (em minha empresa, ONG e doutorado) e também o que vêm acontecendo na academia e no mercado."
+  subtype: presentation
+  speakers: [013]
+  complexity: Intermediário
+
 # Diego Nogare
 -
   id: 402

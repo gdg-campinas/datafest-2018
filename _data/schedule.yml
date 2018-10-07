@@ -8,7 +8,7 @@
     - { startTime: "08:40", endTime: "09:10", sessionIds: [100] }
     - { startTime: "09:10", endTime: "09:30", sessionIds: [200] }
     - { startTime: "09:30", endTime: "10:15", sessionIds: [301] }
-    - { startTime: "10:15", endTime: "11:05", sessionIds: [0, 402] }
+    - { startTime: "10:15", endTime: "11:05", sessionIds: [401, 402] }
     - { startTime: "11:05", endTime: "11:55", sessionIds: [500] }
     - { startTime: "11:55", endTime: "12:55", sessionIds: [601, 602] }
     - { startTime: "12:55", endTime: "13:40", sessionIds: [701, 702] }
