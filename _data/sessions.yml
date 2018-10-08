@@ -17,22 +17,21 @@
   place: ""
   service: true
   description: ""
-
 -
-  id: 500
+  id: 600
   title: "Almoço"
   place: ""
   service: true
   description: ""
 -
-  id: 900
+  id: 1000
   title: "Coffee"
   place: ""
   service: true
   description: "Momento para networking"
 
 -
-  id: 1300
+  id: 1400
   title: "Encerramento"
   place: ""
   service: true
@@ -47,7 +46,7 @@
   description: "Erros de algoritmos \"mal treinados\" levam a conclusões erradas: desde a identificação de gorilas em fotos de humanos até a prisão de inocentes. Neste cenário, qual papel nós estamos desempenhando? Estamos ajudando a reforçar e a replicar algoritmos tendenciosos (biased)?"
   speakers: [007]
 
-# speaker
+# Fernanda Andalo
 -
   id: 401
   title: "Da Academia ao Mercado: Visão computacional com Deep Learning"
@@ -65,9 +64,27 @@
   speakers: [005]
   complexity: Intermediário
 
+# Daniel Cukier
+-
+  id: 501
+  title: "Índice de Audiência Musical: o lado científico do programa  SóTocaTop"
+  description: "Índice de Audiência Musical é a composição de várias tecnologias de computação musical, computação em Nuvem e Data Science para consolidar, num único número, o nível de popularidade de artistas, baseando-se em dados de consumo em rádios, TVs e plataformas de streaming. Nessa palestra, contaremos detalhes desse projeto, utilizado pela Rede Globo para a escolha de artistas do programa SóTocaTop."
+  subtype: presentation
+  speakers: [003]
+  complexity: Intermediário
+
+# Alline Oliveira
+-
+  id: 502
+  title: "A definir"
+  description: "A definir"
+  subtype: presentation
+  speakers: [016]
+  complexity: Todos
+
 # Alexandre Ferreira
 -
-  id: 601
+  id: 901
   title: "Provenance analysis against fake news"
   description: "Com o objetivo de recontar uma história a partir de textos, imagens e vídeos, o projeto temático Fapesp DéjàVu reúne diversas técnicas de aprendizado de máquina e visão computacional para organizar e recriar eventos, contando toda a história em diversas perspectivas. Esta palestra foca em provenance analysis, um braço importante do projeto, e como ela pode ser utilizada no combate a fake news."
   subtype: presentation
@@ -76,7 +93,7 @@
 
 # Cesar Nogueira
 -
-  id: 602
+  id: 702
   title: "Vamos falar de pipelines de dados?"
   description: "Aprenda como a utilizar o Google Dataflow e Google BigQuery para processar seu grande volume de dados juntamente com Dataflow SDK e Apache Beam com uso de cron jobs no Google App Engine de forma a automatizar suas pipelines de dados"
   subtype: presentation
@@ -85,7 +102,7 @@
 
 # Ahirton Lopes
 -
-  id: 701
+  id: 801
   title: "Motores de Recomendação - O que são? Onde vivem? Do que se alimentam?"
   description: "Um sistema de recomendação é uma espécie de sistema de filtragem de informações que procura prever a \"classificação\" ou \"preferência\" que um determinado usuário dará a um item ou serviço. Hoje em dia eles se tornaram cada vez mais populares e estão presentes nas mais diversas áreas, incluindo filmes, músicas, notícias, livros, artigos de pesquisa, consultas de pesquisa e produtos em geral. 
 Nessa palestra vou mostrar diferentes implementações de sistemas de recomendação em diferentes ferramentas, programando em Python e utilizando ferramentas disponíveis via Google Cloud Plataform (tais como TensorFlow e Cloud Machine Learning Engine), demonstrando diferentes técnicas, trazendo estudos de caso de mundo real tais como recomendação de filmes dentre outros."
@@ -95,7 +112,7 @@ Nessa palestra vou mostrar diferentes implementações de sistemas de recomenda�
 
 # Cristiano dos Santos
 -
-  id: 702
+  id: 802
   title: "Conhecendo o Azure HDInsights"
   description: "Como utilizar o ambiente Azure para processamento de dados utilizando features de Big Data, como Cluster Apache Hadoop, Spark entre outras features."
   subtype: presentation
@@ -104,7 +121,7 @@ Nessa palestra vou mostrar diferentes implementações de sistemas de recomenda�
 
 # Felipe Santos
 -
-  id: 801
+  id: 701
   title: "Deploy de Modelos de Machine Learning em Arquiteturas Serverless"
   description: "Como criar, validar e colocar modelos de Machine Learning em produção utilizando arquiteturas serverless na nuvem."
   subtype: presentation
@@ -113,7 +130,7 @@ Nessa palestra vou mostrar diferentes implementações de sistemas de recomenda�
 
 # Flavio Pimenta
 -
-  id: 802
+  id: 902
   title: "Aguentando uma enxurrada de requisições com API Gateway + Lambda + Kinesis"
   description: "O objetivo é abordar a tecnologia serverless em conjunto com um grande volume de requisições e dados. Além disso, mostrar a relação custo x benefício de cada abordagem se faz necessário para que o custo também seja uma preocupação dos Arquitetos e Desenvolvedores ao pensar em uma solução deste porte."
   subtype: presentation
@@ -122,7 +139,7 @@ Nessa palestra vou mostrar diferentes implementações de sistemas de recomenda�
 
 # Fernando Ultremare
 -
-  id: 1001
+  id: 1101
   title: "Ciência e engenharia de dados no Google Cloud"
   description: "Um panorama das principais ferramentas e o que há de mais  de novo em Data Science/Engineering no Google Cloud"
   subtype: presentation
@@ -131,7 +148,7 @@ Nessa palestra vou mostrar diferentes implementações de sistemas de recomenda�
 
 # Eiti Kimura
 -
-  id: 1002
+  id: 1102
   title: "Apache Spark Structured Stream: Um moedor de dados em tempo real"
   description: "Você tem grandes volumes de transações e precisa consolidar essas informações? ou aplicar transformações nesses dados? 
 O Apache Spark através de sua solução de processamento de dados via Structured Stream provê uma API simples para implementar o processamento de dados em \"tempo real\" de forma altamente escalável.
@@ -142,7 +159,7 @@ Nessa apresentação vou mostrar como utilizamos o Structured  Stream para proce
 
 # Gabriel Moreira
 -
-  id: 1101
+  id: 1201
   title: "Sistemas de Recomendação sem enrolação"
   description: "Neste workshop faremos uma introdução bastante prática sobre as principais técnicas e frameworks de Sistemas de Recomendação (RecSys). 
 Baseado em um dataset e códigos de exemplo que disponibilizaremos, você será capaz de implementar seu primeiro RecSys."
@@ -152,7 +169,7 @@ Baseado em um dataset e códigos de exemplo que disponibilizaremos, você será 
 
 # Hugo Rozestraten
 -
-  id: 1102
+  id: 1202
   title: "Integrando Machine Learning na ingestão à persistência."
   description: "Como ferramentas de ingestão e streaming em paralelo podem antecipar análises no Pipeline de Big Data e diminuir a movimentação dos dados após a persistência, garantindo agilidade na aplicação de Modelos de Big Data."
   subtype: presentation
@@ -161,21 +178,12 @@ Baseado em um dataset e códigos de exemplo que disponibilizaremos, você será 
 
 # Keynote: closing: Gago
 -
-  id: 1201
+  id: 1301
   title: "Keynote de Fechamento"
   place: ""
   description: ""
   subtype: keynote
   speakers: [015]
-
-# Daniel Cukier
--
-  id: 9999
-  title: "Índice de Audiência Musical: o lado científico do programa  SóTocaTop"
-  description: "Índice de Audiência Musical é a composição de várias tecnologias de computação musical, computação em Nuvem e Data Science para consolidar, num único número, o nível de popularidade de artistas, baseando-se em dados de consumo em rádios, TVs e plataformas de streaming. Nessa palestra, contaremos detalhes desse projeto, utilizado pela Rede Globo para a escolha de artistas do programa SóTocaTop."
-  subtype: presentation
-  speakers: [003]
-  complexity: Intermediário
 
 # -
 #   id: 002
