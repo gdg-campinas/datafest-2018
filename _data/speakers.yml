@@ -173,7 +173,7 @@
   title: "Researcher"
   bio: ""
   thumbnailUrl: FernandaAndalo.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/feandalo/" }
 
@@ -211,7 +211,7 @@
   title: "CTO"
   bio: "Alline Oliveira é uma das poucas mulheres no mundo certificada como Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Departamento de Defesa Americano, Universidade da California, TAM, Anatel, Serpro, dentre outros. Hoje é a CTO da fintech Crebit."
   thumbnailUrl: AllineOliveira.jpg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
