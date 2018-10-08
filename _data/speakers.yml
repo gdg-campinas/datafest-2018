@@ -19,7 +19,9 @@
   surname: "Ultremare"
   company: "Dextra"
   title: "Gerente de Desenvolvimento"
-  bio: ""
+  bio: "A passionate software craftsman who's worked for a wide range of industries and products. Open source developer, technical writer and conference speaker.
+At Dextra, I blend my technical and management skills to lead teams that are building awesome software products for startups, technology, media, manufacturing, financial and other types of companies.
+I live in Brazil and graduated in Computer Science at the University of Campinas, Unicamp. When my head is not on computers, I love the countryside where I really enjoy riding horses and playing guitar out loud."
   thumbnailUrl: FernandoUltremare.jpg
   rockstar: true
   ribbon: 
@@ -103,7 +105,7 @@
   surname: "Lopes"
   company: "Duratex"
   title: "Data Scientist"
-  bio: ""
+  bio: "Data Scientist na Duratex e professor de MBA em Machine Learning e Inteligência Artificial na FIAP além de community manager na AI Brasil. Apaixonado por aprendizagem, startups, psicologia e inovação em geral, é mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie (UPM) e doutorando em Engenharia Elétrica e Computação na mesma instituição. Seus projetos tiveram como temas principais: Motores de Recomendação, Auto Organização e Funcionamento Autônomo de VANTs, Processamento de Linguagem Natural dentre outros tópicos."
   thumbnailUrl: AhirtonLopes.jpg
   rockstar: false
   social:
@@ -116,7 +118,9 @@
   surname: "Moreira"
   company: "CI&T"
   title: "Lead Data Scientist"
-  bio: ""
+  bio: "Gabriel Moreira é um cientista apaixonado por dados e Machine Learning.
+Ele também é aluno de doutorado no ITA, com pesquisa focada em Arquiteturas de Deep Learning para Sistemas de Recomendação.
+Na CI&T, lidera um time de Data Scientist e ML Engineers na transformação de jornadas digitais utilizando Cognitive."
   thumbnailUrl: GabrielMoreira.jpg
   rockstar: false
   social:
@@ -130,7 +134,8 @@
   surname: "Pimenta"
   company: "Assertiva Soluções"
   title: "Arquiteto Cloud e Evangelista Devops"
-  bio: ""
+  bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções
+Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
   thumbnailUrl: FlavioPimenta.jpg
   rockstar: false
   social:
@@ -158,7 +163,8 @@
   surname: "dos Santos"
   company: "Jardim Vida Nova"
   title: "Coordenador de BI/Big Data e Banco de Dados"
-  bio: ""
+  bio: "Cristiano Joaquim, formado em Ciência da Computação pela Universidade de Guarulhos e Pós Graduado em BI pela Faculdade IBTA.
+Professor Universitário em Cursos de Tecnologia e Profissional de TI com no momento 19 anos de experiência em diversos ramos de atividades, como: Varejo e Atacarejo, Logística, Financeiras e prestação de serviços por meios de pagamentos."
   thumbnailUrl: CristianoSantos.jpg
   rockstar: false
   social:
