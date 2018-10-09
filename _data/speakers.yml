@@ -161,7 +161,7 @@ Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuand
   id: 012
   name: "Cristiano Joaquim"
   surname: "dos Santos"
-  company: "Jardim Vida Nova"
+  company: "Sestini"
   title: "Coordenador de BI/Big Data e Banco de Dados"
   bio: "Cristiano Joaquim, formado em Ciência da Computação pela Universidade de Guarulhos e Pós Graduado em BI pela Faculdade IBTA.
 Professor Universitário em Cursos de Tecnologia e Profissional de TI com no momento 19 anos de experiência em diversos ramos de atividades, como: Varejo e Atacarejo, Logística, Financeiras e prestação de serviços por meios de pagamentos."
@@ -190,7 +190,7 @@ Professor Universitário em Cursos de Tecnologia e Profissional de TI com no mom
   surname: "Santos"
   company: "Daitan Group"
   title: "Data Scientist"
-  bio: ""
+  bio: "Sou doutor em física e desde o início da graduação me fascinava a ideia de aplicar o mindset de físico em problemas \"sociais\" - como urbanização, comportamentos, linguagens, etc. Naturalmente, esse interesse me levou a ciência de dados, área pela qual sou absolutamente apaixonado. Tenho experiência tanto no desenvolvimento quanto no deploy de modelos baseados em machine learning com finalidades diversas, mas o que faz meus olhos brilharem é aplicar essas técnicas em problemas relacionados a urbanização, linguagens ou análises comportamentais."
   thumbnailUrl: FelipeSantos.jpg
   rockstar: false
   social:
