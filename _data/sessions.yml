@@ -58,7 +58,7 @@
 # Diego Nogare
 -
   id: 402
-  title: "Montando um ambiente de Big Data com Spark itegrado com R no Azure"
+  title: "Montando um ambiente de Big Data com Spark integrado com R no Azure"
   description: "Nesta sessão vou apresentar a criação do Apache Spark a partir do zero, instanciando uma máquina no Azure e permitindo a interação com linguagem R, incluindo os mecanismos de Machine Learning integrado com Big Data."
   subtype: presentation
   speakers: [005]
