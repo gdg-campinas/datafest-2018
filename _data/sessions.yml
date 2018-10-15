@@ -161,8 +161,8 @@ Nessa apresentação vou mostrar como utilizamos o Structured  Stream para proce
 -
   id: 1201
   title: "Sistemas de Recomendação sem enrolação"
-  description: "Neste workshop faremos uma introdução bastante prática sobre as principais técnicas e frameworks de Sistemas de Recomendação (RecSys). 
-Baseado em um dataset e códigos de exemplo que disponibilizaremos, você será capaz de implementar seu primeiro RecSys."
+  description: "Nesta palestra, apresentarei uma introdução prática sobre as principais técnicas de sistemas de recomendação, incluindo arquiteturas recentes baseadas em Deep Learning.
+Serão apresentados exemplos utilizando Python, TensorFlow e Google ML Engine, e fornecidos datasets para exercitarmos um cenário de recomendação de artigos e notícias."
   subtype: presentation
   speakers: [009]
   complexity: Básico
