@@ -6,3 +6,5 @@
   group: Apoio
   elements:
     - { name: "AI Brasil", description: "AI Brasil", link: "https://www.facebook.com/BrasilAI/", imageUrl: "aibrasil.png", width: "120%" }
+    - { name: "SouJava Campinas JUG", description: "SouJava Campinas JUG", link: "https://soujava.org.br/regionais/campinas/", imageUrl: "soujavacampinas.jpg", width: "80%" }
+    
