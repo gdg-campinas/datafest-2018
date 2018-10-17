@@ -154,7 +154,9 @@ Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuand
   thumbnailUrl: CesarNogueira.jpg
   rockstar: false
   social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cesarnog" }
     - { name: "facebook", link: "http://facebook.com/cesarnog" }
+    - { name: "site", link: "http://cesarnogueira.tech" }
 
 # Cristiano Santos
 -
