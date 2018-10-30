@@ -77,7 +77,7 @@
 -
   id: 502
   title: "BigQuery/BigData. Programação com propósito"
-  description: ""
+  description: "Qual o objetivo maior de suas linhas de código? Você realmente necessita de um Schema forte, inter relacionado, vinculado a chaves inflexíveis? O quão estável está o seu business? Já foi validado e já produz os resultados esperados?"
   subtype: presentation
   speakers: [016]
   complexity: Todos
