@@ -112,7 +112,7 @@ Nessa palestra vou mostrar diferentes implementações de sistemas de recomenda�
 
 # Cristiano dos Santos
 -
-  id: 802
+  id: 902
   title: "Conhecendo o Azure HDInsights"
   description: "Como utilizar o ambiente Azure para processamento de dados utilizando features de Big Data, como Cluster Apache Hadoop, Spark entre outras features."
   subtype: presentation
@@ -130,7 +130,7 @@ Nessa palestra vou mostrar diferentes implementações de sistemas de recomenda�
 
 # Flavio Pimenta
 -
-  id: 902
+  id: 802
   title: "Aguentando uma enxurrada de requisições com API Gateway + Lambda + Kinesis"
   description: "O objetivo é abordar a tecnologia serverless em conjunto com um grande volume de requisições e dados. Além disso, mostrar a relação custo x benefício de cada abordagem se faz necessário para que o custo também seja uma preocupação dos Arquitetos e Desenvolvedores ao pensar em uma solução deste porte."
   subtype: presentation
