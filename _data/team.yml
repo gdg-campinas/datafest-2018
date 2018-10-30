@@ -39,8 +39,34 @@ support:
     id: 4
     name: "Felipe"
     surname: "Pereira"
-    title: "Curadoria"
+    title: "Coordenador de Conteúdo"
     thumbnailUrl: FelipePereira.jpg
     support: true
     social: 
       - {name: "linkedin", link: "https://www.linkedin.com/in/felipe-pereira-dba/"}
+  -
+    id: 5
+    name: "Ahirton"
+    surname: "Lopes"
+    title: "Curadoria"
+    thumbnailUrl: AhirtonLopes.jpg
+    support: true
+    social:
+      - { name: "linkedin", link: "https://www.linkedin.com/in/ahirton/" }
+  -
+    id: 6
+    name: "Italo"
+    surname: "José"
+    title: "Curadoria"
+    thumbnailUrl: ItaloJose.jpg
+    support: true
+    social: []
+  -
+    id: 7
+    name: "Thaissa"
+    surname: "Sanches"
+    title: "Curadoria"
+    thumbnailUrl: ThaissaSanches.jpg
+    support: true
+    social: []
+  
